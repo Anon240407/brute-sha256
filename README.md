@@ -149,4 +149,3 @@ The script operates in a sequence:
     -   The `rules` mode and direct wordlist checks are CPU-bound and their speed depends on CPU performance and wordlist size/complexity of rules.
 -   **Computational Complexity:** Brute-forcing cryptographic hashes is computationally intensive. The time required to find a match increases exponentially with the length of the unknown string and the size of the character set. Cracking long, complex passwords with large charsets can be impractical.
 -   **Ethical Considerations:** This tool is intended for educational purposes, security testing, and password recovery **only where you have explicit authorization**. Unauthorized use against systems or data you do not own is illegal and unethical.
-```
